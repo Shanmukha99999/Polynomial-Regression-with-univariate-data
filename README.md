@@ -9,6 +9,9 @@ To know what all are the functions that shows these kind trends I have used Desm
 trends for different functions.
 
 In the same way I found one function i.e tanh(x) , which was giving a non linearity patterns.
+                        ![Screenshot (177)](https://user-images.githubusercontent.com/74135918/206120780-16fd9f2e-d372-4c36-944f-b497244682d1.png)
+
+
 
 I have used numpy module to create the dataset for the model.
 
